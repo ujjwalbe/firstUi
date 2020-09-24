@@ -1,6 +1,6 @@
 # firstUi
 
-A new Flutter project.
+A Beautiful UI experiment
 
 ## Getting Started
 
