@@ -1,6 +1,6 @@
 # firstUi
 
-A Beautiful UI experiment
+A Beautiful UI experiment, inspired from TheFlutterWay
 
 ## Getting Started
 
